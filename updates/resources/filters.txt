@@ -1,0 +1,2 @@
+# OpenMedia filter resource placeholder
+# Add only resources supported by your chosen filtering engine.

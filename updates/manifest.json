@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "minAppVersionCode": 1,
+  "maxAppVersionCode": 0,
+  "formatVersion": 1,
+  "sizeBytes": 0,
+  "sha256": "REPLACE_WITH_REAL_SHA256",
+  "resourceUrl": "https://raw.githubusercontent.com/ddread-gif/OpenMedia-Filter-Updates/main/updates/resources/filters.txt"
+}
