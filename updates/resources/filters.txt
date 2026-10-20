@@ -1,2 +1,3 @@
 # OpenMedia filter resource placeholder
-# Add only resources supported by your chosen filtering engine.
+# Resource version 2 update test
+# Filtering engine integration is not implemented yet.
