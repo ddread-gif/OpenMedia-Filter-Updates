@@ -48,7 +48,7 @@ resource_url = (
 )
 
 manifest = {
-    "versionCode": 2,
+    "versionCode": 3,
     "minAppVersionCode": 1,
     "maxAppVersionCode": 0,
     "formatVersion": 1,

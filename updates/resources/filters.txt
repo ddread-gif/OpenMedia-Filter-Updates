@@ -1,3 +1,3 @@
 # OpenMedia filter resource placeholder
-# Resource version 2 update test
+# Resource version 3 background notification test
 # Filtering engine integration is not implemented yet.
